@@ -38,7 +38,4 @@ def bubble_sort_by(arr)
   end
   arr
 end
-
-p bubble_sort [7, 2, 0, 0, 10, 1, 2, 3]
-
 p bubble_sort_by([7, 2, 0, 0, 10, 1, 2]) { |a, b| a <=> b }

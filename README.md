@@ -1,12 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # bubble_sort
-- 
+Bubble_sort is a method which sorts an array by accepting a block using yield.
 
 ## Built With
-
 - Ruby
 
+## Screenshot
+![bubblesort](https://user-images.githubusercontent.com/69638013/116231856-4fec2e00-a751-11eb-9f23-d24288a9f20f.png)
+
+## Installations
+- Ruby
+- code-editor
+
+## Getting Started
+To get a local copy up and running follow these simple example steps:
+- Go to https://github.com/prolajumokeoni/bubble_sort/tree/develop-bubble
+-Click on the code and clone
 
 ## Author
 
