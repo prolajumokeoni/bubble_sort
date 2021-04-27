@@ -15,7 +15,6 @@ def bubble_sort(arr)
   arr
 end
 
-
 def bubble_sort_by(arr)
   num_of_time_to_sort = arr.length - 1
   1.upto(arr.length - 1) do
