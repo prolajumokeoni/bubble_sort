@@ -26,9 +26,7 @@ def bubble_sort_by(arr)
                      arr[i] - arr[i + 1]
                    end
       if sort_order.positive?
-        arr_i_cpy = arr[i]
-        arr[i] = arr[i + 1]
-        arr[i + 1] = arr_i_cpy
+        (arr[i], arr[i + 1] = arr[i + 1], arr[i])
       end
       i += 1
     end
