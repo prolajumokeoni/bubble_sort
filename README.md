@@ -16,7 +16,7 @@ Bubble_sort is a method which sorts an array by accepting a block using yield.
 ## Getting Started
 To get a local copy up and running follow these simple example steps:
 - Go to https://github.com/prolajumokeoni/bubble_sort/tree/develop-bubble
--Click on the code and clone
+- Click on the code and clone to your local machine
 
 ## Author
 
