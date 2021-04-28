@@ -7,7 +7,8 @@ Bubble_sort is a method which sorts an array by accepting a block using yield.
 - Ruby
 
 ## Screenshot
-![bubblesort](https://user-images.githubusercontent.com/69638013/116231856-4fec2e00-a751-11eb-9f23-d24288a9f20f.png)
+![bbubble sort](https://user-images.githubusercontent.com/69638013/116367516-589b3d80-a7ff-11eb-95c7-414723a15528.png)
+
 
 ## Installations
 - Ruby

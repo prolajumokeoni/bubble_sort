@@ -30,7 +30,7 @@ def bubble_sort_by(arr)
       end
       i += 1
     end
-    num_of_time_to_sort -= 1
+    num_of_time_to_sort -= 1=
   end
   arr
 end
